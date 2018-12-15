@@ -1,0 +1,38 @@
+"#INPUTS"
+((name "b") 
+    (nodes 
+	("b" "/gnd!")
+    ) 
+    (enabled t) 
+    (tranType "dc") 
+    (srcType "Voltage")
+    (instParameters 
+	((vdc "1") 
+	    (acm "") 
+	    (acp "")
+	)
+    ) 
+    (otherParameters nil)
+)
+((name "a") 
+    (nodes 
+	("a" "/gnd!")
+    ) 
+    (enabled t) 
+    (tranType "dc") 
+    (srcType "Voltage")
+    (instParameters 
+	((vdc "1") 
+	    (acm "") 
+	    (acp "")
+	)
+    ) 
+    (otherParameters nil)
+)
+"#GLOBALS"
+((name "vdd!") 
+    (nodes 
+	("vdd!" "/gnd!")
+    ) 
+    (enabled nil)
+)

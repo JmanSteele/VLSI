@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("Sample" "Half_Adder0" "schematic" "hspiceD")
+descriptionText = "None"

@@ -1,0 +1,6 @@
+analysis(tran fields DELMAX) ""
+analysis(tran fields enable) (t)
+analysis(tran fields start) ""
+analysis(tran fields step) "10p"
+analysis(tran fields stop) "10n"
+analysis(tran fields uic) nil
